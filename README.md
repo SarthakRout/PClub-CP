@@ -21,6 +21,10 @@ You have to print "YES" if you can become the King of Gods else print "NO".
 * 0<=T<R+C
 * 1<=R, C<=10<sup>3</sup>
 * 0<=S<=10<sup>18</sup>
+## Code Limits
+* Time Limit : 0.1 s
+* Souce code limit : 50000 bytes
+* Memory Limit : 256 MB
 ## Example
 ### Input
 8 2 2  
@@ -30,7 +34,7 @@ You have to print "YES" if you can become the King of Gods else print "NO".
 ### Output
 YES
 ### Explanation
-The horse starts from {2,1} area. If the horse goes right east, it is stopped by in the 2nd step at {1,2}. So, only one area is occupied but if it goes up north it is stopped at the opposite corner {2,0} where it occupies 2 units of area. Here {n,d} represents the state of the box and not its coordinate.
+The horse starts from {2,1} area. If the horse goes right east, it is stopped by in the 2nd step at {1,2}. So, only one area is occupied but if it goes up north it is stopped at the opposite corner {2,0} where it occupies 2 units of area. Here {n,d} represents the state of the box and not its coordinate.  
 ![Array Structure](https://i.ibb.co/TwpChPx/pic.png)
 ### Input
 446960 10 4  

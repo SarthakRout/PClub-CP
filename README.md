@@ -10,13 +10,13 @@ You have conducted Ashwamedha Yajna successfully 99 times. For the 100th time, I
 You are given an array denoting the area to be captured. Each unit box has equal unit area. Your horse is present at the bottom left position and will step into the bottom leftmost position. The horse can only move in North or East direction. You can move until you are dead or you reach the topmost right corner signifying the end of land.  
 Can you become the King of Gods?
 ## Input 
-The first line consists of four integers: Number of normal soldiers that you have, 'S', Strength of normal soldier 'N', Strength of divine soldier 'D', Target Area 'T'
-The second line consists of two integers : Number of rows 'R', Number of columns 'C'
-Then 'R' lines follow with 2 * 'C' integers each denoting the number of normal enemy soldiers and number of divine enemy soldiers.
+* The first line consists of four integers: Number of normal soldiers that you have, 'S', Strength of normal soldier 'N', Strength of divine soldier 'D', Target Area 'T'
+* The second line consists of two integers : Number of rows 'R', Number of columns 'C'
+* Then 'R' lines follow with 2 * 'C' integers each denoting the number of normal enemy soldiers, 'N_i' and number of divine enemy soldiers, 'D_i'.
 ## Output
 You have to print "YES" if you achieve the target area else "NO".
 ## Constraints
-* 1<=N, D<=10^9
+* 1<=S, N, D, N_i, D_i <=10^9
 * 0<=T<=R*C
 * 1<=R, C<=10000
 

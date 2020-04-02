@@ -31,6 +31,7 @@ You have to print "YES" if you can become the King of Gods else print "NO".
 YES
 ### Explanation
 The horse starts from {2,1} area. If the horse goes right east, it is stopped by in the 2nd step at {1,2}. So, only one area is occupied but if it goes up north it is stopped at the opposite corner {2,0} where it occupies 2 units of area. Here {n,d} represents the state of the box and not its coordinate.
+![Array Structure](https://ibb.co/L0bGp9X)
 ### Input
 446960 10 4  
 2 4  

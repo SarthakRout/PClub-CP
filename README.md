@@ -17,7 +17,7 @@ Can you become the King of Gods?
 You have to print "YES" if you can become the King of Gods else print "NO".
 ## Constraints
 * 1<= D <= 20
-* 0<=N, N_i, D_i <=10<sup>9</sup>
+* 0<=N, N<sub>i</sub>, D<sub>i</sub> <=10<sup>9</sup>
 * 0<=T<R+C
 * 1<=R, C<=10<sup>3</sup>
 * 0<=S<=10<sup>18</sup>

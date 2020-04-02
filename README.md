@@ -14,7 +14,7 @@ Can you become the King of Gods?
 * The second line consists of two integers : Number of rows 'R', Number of columns 'C'
 * Then 'R' lines follow with 2 * 'C' integers each denoting the number of normal enemy soldiers, 'N_i' and number of divine enemy soldiers, 'D_i'.
 ## Output
-You have to print "YES" if you achieve the target area else "NO".
+You have to print "YES" if you can become the King of Gods else print "NO".
 ## Constraints
 * 1<=S, N, D, N_i, D_i <=10^9
 * 0<=T<=R*C

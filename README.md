@@ -12,15 +12,15 @@ Can you become the King of Gods?
 ## Input 
 * The first line consists of three integers: Number of normal soldiers that you have, 'S', Strength of divine soldier 'D', Target Area 'T'
 * The second line consists of two integers : Number of rows 'R', Number of columns 'C'
-* Then 'R' lines follow with 2 * 'C' integers each denoting the number of normal enemy soldiers, 'N_i' and number of divine enemy soldiers, 'D_i'.
+* Then 'R' lines follow with 2 * 'C' integers each denoting the number of normal enemy soldiers, 'N<sub>i</sub>' and number of divine enemy soldiers, 'D<sub>i</sub>'.
 ## Output
 You have to print "YES" if you can become the King of Gods else print "NO".
 ## Constraints
 * 1<= D <= 20
-* 0<=N, N_i, D_i <=10^9
+* 0<=N, N_i, D_i <=10<sup>9</sup>
 * 0<=T<=R*C
-* 1<=R, C<=10000
-* 0<=S<=10^18
+* 1<=R, C<=10<sup>4</sup>
+* 0<=S<=10<sup>18</sup>
 ## Example
 ### Input
 8 2 2  

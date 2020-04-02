@@ -30,7 +30,13 @@ You have to print "YES" if you can become the King of Gods else print "NO".
 ### Output
 YES
 ### Explanation
-The horse starts from {2,1} area. If the horse goes right east, it is stopped by in the 2nd step at {1,2}. So, only one area is occupied but if it goes up north it is stopped at the opposite corner {2,0} where it occupies 2 units of area.
+The horse starts from {2,1} area. If the horse goes right east, it is stopped by in the 2nd step at {1,2}. So, only one area is occupied but if it goes up north it is stopped at the opposite corner {2,0} where it occupies 2 units of area. Here {n,d} represents the state of the box and not its coordinate.
 ### Input
-
+446960 10 4  
+2 4  
+4369 14877 13318 9296 16844 17659 29815 5912   
+18280 11149 9935 26920 17462 20846 138 6425   
 ### Output
+NO
+### Explanation 
+Whichever path you take, you get stopped after getting to {13318,9296}, you lose your fight at {16844,17659}. You get a maximum of 3 uni areas which is less than 4.

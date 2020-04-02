@@ -2,7 +2,7 @@
 This repo contains a complete competitive programming problem with sample cases, test cases and a solution file.
 
 # Ashwamedha Yajna
-In the ancient times, the glorious kings of Bharat performed many rituals for prosperity of their kingdoms , good-will of their family, to please the priests so that they would grant some boon.  
+In the ancient times, the glorious kings of Bharat performed many rituals for prosperity of their kingdoms , good-will of their family, or to please the priests so that they would grant some boon.  
 In the Ashwamedha Yajna, the horse is left free in the Ishanya(North-East) direction with the army of the King. Whichever the kingdom the horse steps on, the king of that kingdom must either accept lordship of the King or fight to protect their kingdom. This ritual is symbolises that the King is unchallenged in the whole world.  
 It was said that whoever conducted 100 Ashwamedha Yajna would be known as King of Gods. So, naturally Indra(with the help of other gods) always tried to hinder the Yajna.  
 You are Chakrabarti Samrat Sarthak Rout.  
@@ -19,4 +19,11 @@ You have to print "YES" if you can become the King of Gods else print "NO".
 * 1<=S, N, D, N_i, D_i <=10^9
 * 0<=T<=R*C
 * 1<=R, C<=10000
+## Example
+### Input
 
+### Output
+  
+### Input
+
+### Output

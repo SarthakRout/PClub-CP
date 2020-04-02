@@ -18,7 +18,7 @@ You have to print "YES" if you can become the King of Gods else print "NO".
 ## Constraints
 * 1<= D <= 20
 * 0<=N, N_i, D_i <=10<sup>9</sup>
-* 0<=T<=R*C
+* 0<=T<R+C
 * 1<=R, C<=10<sup>3</sup>
 * 0<=S<=10<sup>18</sup>
 ## Example
@@ -39,4 +39,4 @@ The horse starts from {2,1} area. If the horse goes right east, it is stopped by
 ### Output
 NO
 ### Explanation 
-Whichever path you take, you get stopped after getting to {13318,9296}, you lose your fight at {16844,17659}. You get a maximum of 3 uni areas which is less than 4.
+Whichever path you take, you get stopped after getting to {13318,9296}, you lose your fight at {16844,17659}. You get a maximum of 3 unit areas which is less than 4.

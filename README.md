@@ -16,9 +16,10 @@ Can you become the King of Gods?
 ## Output
 You have to print "YES" if you can become the King of Gods else print "NO".
 ## Constraints
-* 1<=S, N, D, N_i, D_i <=10^9
+* 0<=N, D, N_i, D_i <=10^9
 * 0<=T<=R*C
 * 1<=R, C<=10000
+* 0<=S<=10^18
 ## Example
 ### Input
 
